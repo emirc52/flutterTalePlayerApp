@@ -1,6 +1,6 @@
 # tales
 
-Tales app.
+Flutter Tales Player app.
 
 ## Getting Started
 
