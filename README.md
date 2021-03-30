@@ -2,16 +2,8 @@
 
 Flutter Tales Player app.
 
-## Getting Started
+#Screenshot
+![image](https://user-images.githubusercontent.com/41022928/113005067-cca0e200-917c-11eb-822b-5c64f0c115ef.png)
+![image](https://user-images.githubusercontent.com/41022928/113005081-d0ccff80-917c-11eb-9fe9-541d3d2078d1.png)
+![image](https://user-images.githubusercontent.com/41022928/113005094-d4f91d00-917c-11eb-9c0b-85093fde6072.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter Tale App
